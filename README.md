@@ -11,7 +11,7 @@ When I was writing and designing my resume I that I kept making a change, saving
 
 Sometimes when I was emailing my resume, I forgot if I had the latest version in PDF form, so I had to re-open Word and then save it as PDF just to be sure.
 
-I also wanted to experiment with C# a little bit and learn to use Visual Studio 2012
+In addition, I also wanted to experiment with C# a little bit and learn to use Visual Studio 2012. Overall, not a bad use of 3 hours of time(not including the time it takes to update VS and install plugins, which is a whole another topic...).
 
 ## Do I need to use this?
 
