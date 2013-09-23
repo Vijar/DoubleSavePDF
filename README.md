@@ -5,6 +5,12 @@ DoubleSavePDF
 
 With DoubleSavePDF, whenever I save(both file>save and ctrl+s) a word document, a pdf version is saved in the same folder with the same name but with a different(PDF) extension. And it stays up to date with the most current save.
 
+## How do I install this?
+
+- Download the repository
+- Open the INSTALL folder
+- Run 'setup.exe'
+
 ## Why did you make this?
 
 When I was writing and designing my resume I that I kept making a change, saving the word document, then saving it as PDF and uploading it to various job hunting profiles. It became tedious to repeat for every little change I made to it.
